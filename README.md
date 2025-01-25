@@ -1,2 +1,2 @@
 # infinitasker
-Productivity Tool/ Task Manager Prototype
+Productivity Tool / Task Manager Prototype
